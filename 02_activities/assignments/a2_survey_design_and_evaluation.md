@@ -94,6 +94,13 @@ Your 5-10 question survey:
    g.	Cassette Tape
 
 8.	What emotion does your favourite song elicit (pick one):
+   a.happiness
+   b.sadness
+   c.fear
+   d.neutral
+   e.anger
+   f.surprise
+   g.disgust
 
 9.	Think back to your youth (high school), what was your favourite song then:_____________________
 
